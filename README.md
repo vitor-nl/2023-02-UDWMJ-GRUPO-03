@@ -3,4 +3,4 @@
 * Arthur Silveira
 * Gabriel Nascimento
 * Thiago Rossoni
-* Gustavo Cabral
+* Gustavo dos Santos Cabral
