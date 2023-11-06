@@ -1,0 +1,3 @@
+db.sqlite3
+cursosapp/__pycache__/*
+cursosapp/.env
