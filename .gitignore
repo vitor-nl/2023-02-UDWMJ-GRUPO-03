@@ -1,3 +1,5 @@
 db.sqlite3
 cursosapp/__pycache__/*
 cursosapp/.env
+/apps/person/__pycache__/*
+/apps/person/migrations/*
