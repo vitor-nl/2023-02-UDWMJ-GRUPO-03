@@ -13,7 +13,7 @@ Framework: Django 4.1
 SGBD: Postgresql 
 
 # Para executar
-- Ter o ambiente virtual com todas as dependências listas abaixo. (Mini Conda)
+- Ter o ambiente virtual com todas as dependências listadas abaixo. (Mini Conda)
 - Executar o arquivo manage.py na raiz do projeto por linha de comando "manage.py runserver".
 
 ## Dependências
