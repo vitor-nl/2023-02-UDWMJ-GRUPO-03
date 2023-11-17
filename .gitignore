@@ -5,3 +5,7 @@ cursosapp/.env
 /apps/person/migrations/*
 /apps/classroom/__pycache__/*
 /apps/classroom/migrations/*
+/apps/professor/__pycache__/*
+/apps/professor/migrations/*
+/apps/student/__pycache__/*
+/apps/student/migrations/*
