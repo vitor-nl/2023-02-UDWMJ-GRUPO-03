@@ -3,3 +3,5 @@ cursosapp/__pycache__/*
 cursosapp/.env
 /apps/person/__pycache__/*
 /apps/person/migrations/*
+/apps/course/__pycache__/*
+/apps/course/migrations/*
