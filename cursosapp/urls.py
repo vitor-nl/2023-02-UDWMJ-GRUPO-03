@@ -17,9 +17,9 @@ from django.contrib import admin
 from django.urls import path, include
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('course/', include('course.urls', namespace='course')),
-    path('classroom/', include('classroom.urls', namespace='classroom')),
-    path('professor/', include('professor.urls', namespace='professor')),
-    path('student/', include('student.urls', namespace='student')),
+    path('api/admin/', admin.site.urls),
+    path('api/course/', include('course.urls', namespace='course')),
+    path('api/classroom/', include('classroom.urls', namespace='classroom')),
+    path('api/professor/', include('professor.urls', namespace='professor')),
+    path('api/student/', include('student.urls', namespace='student')),
 ]
